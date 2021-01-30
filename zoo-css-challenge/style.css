@@ -38,7 +38,7 @@ h1 {
   margin-bottom: 1em;
 }
 h3 {
-  color: #d6d85a;
+  color: #00cfd6;
   margin-bottom: 1em;
 }
 h4 {
@@ -138,12 +138,15 @@ footer {
 }
 
 .giraffe {
-  background-color: #465775;
-  color: #56e39f;
+  background-color: #483C46;
+  color:#BEEE62;
 }
 
 .giraffe h2 {
-  color: #ef6f6c;
+  color: #F4743B;
+}
+
+#ppg {font-size: 150%;
 }
 
 .card {
