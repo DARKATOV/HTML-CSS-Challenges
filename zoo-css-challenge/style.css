@@ -103,9 +103,21 @@ footer {
   font-size: 125%;
 }
 
-.image-container img {
+#oso1 {
   vertical-align: top;
-  border: 5px solid #747c92;
+  border: 5px solid #888888;
+  margin-right: 15px;
+}
+
+#oso2 {
+  vertical-align: top;
+  border: 5px solid #fbff00;
+  margin-right: 15px;
+}
+
+#oso3 {
+  vertical-align: top;
+  border: 5px solid #160d94;
 }
 
 .image-container img:first-of-type {
