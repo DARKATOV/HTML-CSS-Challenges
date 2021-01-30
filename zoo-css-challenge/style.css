@@ -104,6 +104,7 @@ footer {
 
 #badge:hover {
   background-color: yellow;
+  transition: all 2s ease-out;
 }
 
 #badge p {
@@ -219,5 +220,9 @@ footer {
 /*Programs*/
 
 .programs .card {
-  display: block;
+  display: inline-block;
+  
+
+
+
 }
